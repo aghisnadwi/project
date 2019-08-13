@@ -1,0 +1,15 @@
+.bdy {
+    background-image: url("public/img/background- test.jpg");
+}
+
+.card {
+    background;test (0,0,0,0,39);
+    border-radius:5px;
+    margin:15px auto;
+    padding:20px;
+}
+
+.text {
+    font-size:50px;
+    color: white;
+}
